@@ -1,0 +1,9 @@
+World Clock API Link : http://worldclockapi.com/api/json/est/now
+
+Using flask to visualize the information. 
+
+Things learned in this exoerince : 
+
+Better understanding of python request (getting information from api) and understanding how to manipulate a
+dict in python.
+
